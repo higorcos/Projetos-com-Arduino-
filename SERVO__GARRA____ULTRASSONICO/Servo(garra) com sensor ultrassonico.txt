@@ -1,0 +1,1 @@
+Mediante a aproximação de um objeto o servo motos irá se mover sendo assim abrindo ou fechando a garra 
